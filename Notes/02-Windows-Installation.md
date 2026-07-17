@@ -12,9 +12,9 @@ Difficulty
 
 Overview
 
-Installing Windows correctly is the first step in building a reliable desktop or server environment. A proper installation ensures system stability, security, and compatibility with hardware and software requirements.
+Installing Windows correctly is the first step to building a reliable desktop or server environment. A proper installation ensures system stability, security, and compatibility with hardware and software requirements.
 
-This module covers the preparation, installation process, initial configuration, and post-installation tasks for Windows operating systems.
+This module covers the preparation, installation, initial configuration, and post-installation tasks for Windows operating systems.
 
 ---
 
@@ -37,12 +37,20 @@ By the end of this module, I should be able to:
 
 Prerequisites
 
-- Basic computer knowledge
 - USB flash drive (8 GB or larger)
 - Windows ISO image
-- Virtual machine (VirtualBox, VMware, or Hyper-V) (optional)
-- Backup of important data before installation
+- Desktop machine or Laptop 
+- Backup of important data before installation if necessary
 
+
+Please Note 
+For the purpose of explaining and testing ,I will be using A Virtual Machine
+Reason being:
+
+- New softwares can be tested without affecting the host machine
+- I can try out new ideas and test them before making actual changes to the company workflow( Server Admin)
+- The Virtual machine can take snapshots and restore itself, This helps in the case of troubleshooting and problem Solving 
+ 
 ---
 
 Topics Covered
